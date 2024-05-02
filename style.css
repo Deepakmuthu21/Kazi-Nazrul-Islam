@@ -1,0 +1,74 @@
+.nav-link{
+    color: whitesmoke !important;
+}
+header{
+    background-color: #1B1C1D
+}
+.pb{
+    padding-bottom: 200px;
+}
+.btun{
+    text-align: center;
+    margin: 10px !important;
+}
+.btn-secondary{
+    background-color:#E0E1E2 !important ;
+    color: black !important;
+    border: none !important;
+}
+.btn-danger{
+    background-color:#DB2828 !important ;
+    border: none !important;
+
+}
+
+.btn-warning{
+    background-color:#F2711C !important ;
+    border: none !important;
+
+}
+
+.quoates{
+    background-color:#1B1C1D ;
+    color: #E0E1E2;
+    text-align: center;
+    padding: 50px;
+    margin: 100px 0px 100px 0px;
+}
+
+h2 {
+    display: flex;
+    flex-direction: row;
+  }
+  h2:before, h2:after{
+    content: "";
+    flex: 1 1;
+    border-bottom: 1px solid;
+    margin: auto;
+  }
+  h2:before {
+    margin-right: 10px
+  }
+  h2:after {
+    margin-left: 10px
+  }
+  .cards{
+    margin: 100px;
+  }
+  .poetry{
+    margin: 100px;
+  }
+  .list {
+    padding-bottom:100px
+  }
+
+  footer{
+    background-color:#1B1C1D ;
+    color: #E0E1E2;
+    text-align: center;
+    padding: 100px;
+  }
+
+  a{
+text-decoration: none;
+  }
